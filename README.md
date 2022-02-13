@@ -1,2 +1,3 @@
-# JONAS-FLOAT-TEMPLATE
+# FLOAT-TEMPLATE
+Simple float layout template.
  
